@@ -2,6 +2,9 @@
 using namespace std;
 #include <cmath>;
 
+//The main function is a bit problematic.. 
+// Because it wont let me use any other name for the function
+// Exp the 'main' name
 int main() {
 	int sum1 = 100 + 50;
 	int sum2 = 200 + 60;
